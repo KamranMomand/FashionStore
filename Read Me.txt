@@ -1,0 +1,7 @@
+User Login:
+Email: techwiz@gmail.com
+Password: Techwiz@3
+
+Admin Login:
+Email: techwiz3@gmail.com
+Password: Techwiz@3
